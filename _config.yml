@@ -30,7 +30,6 @@ lsi: false
 limit_posts: 10
 
 # Permalink structure and pagination options
-relative_permalinks: true
 permalink: pretty
 paginate: 9
 paginate_path: 'page:num'
