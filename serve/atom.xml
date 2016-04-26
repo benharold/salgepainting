@@ -4,13 +4,24 @@
  <title>Salge Painting</title>
  <link href="benharold.github.io/atom.xml" rel="self"/>
  <link href="benharold.github.io/"/>
- <updated>2016-04-26T17:45:53-04:00</updated>
+ <updated>2016-04-26T18:02:48-04:00</updated>
  <id>benharold.github.io</id>
  <author>
    <name>Ben Harold</name>
    <email>benharold@mac.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Coming Soon</title>
+   <link href="benharold.github.io/portfolio/2016/04/26/coming-soon/"/>
+   <updated>2016-04-26T00:00:00-04:00</updated>
+   <id>benharold.github.io/portfolio/2016/04/26/coming-soon</id>
+   <content type="html">&lt;div class=&quot;message&quot;&gt;
+  We will be adding photos of completed projects soon. Please check back in a few days.
+&lt;/div&gt;
+</content>
+ </entry>
  
 
 </feed>
