@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://salgepainting.com/</loc>
+    <lastmod>2016-04-26T17:10:23-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+    <url>
+      <loc>http://salgepainting.com/jekyll/example/2014/03/01/2014-03-01-example-content/</loc>
+      
+        <lastmod>2014-03-01T00:00:00-05:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+  
+  
+  <url>
+    <loc>http://salgepainting.com/404.html</loc>
+    
+      <lastmod>2016-04-26T17:10:23-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://salgepainting.com/about/</loc>
+    
+      <lastmod>2016-04-26T17:10:23-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://salgepainting.com/atom.xml</loc>
+    
+      <lastmod>2016-04-26T17:10:23-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://salgepainting.com/contact/</loc>
+    
+      <lastmod>2016-04-26T17:10:23-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://salgepainting.com/</loc>
+    
+      <lastmod>2016-04-26T17:10:23-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://salgepainting.com/portfolio/</loc>
+    
+      <lastmod>2016-04-26T17:10:23-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://salgepainting.com/quote/</loc>
+    
+      <lastmod>2016-04-26T17:10:23-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://salgepainting.com/sitemap.xml</loc>
+    
+      <lastmod>2016-04-26T17:10:23-04:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+</urlset>
