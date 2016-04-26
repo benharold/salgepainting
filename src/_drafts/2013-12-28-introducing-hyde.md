@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2013-12-28
 title: Introducing Hyde
 ---
 
